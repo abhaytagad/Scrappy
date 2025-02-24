@@ -1,0 +1,15 @@
+setup.py
+hindi_scraper/__init__.py
+hindi_scraper/items.py
+hindi_scraper/middlewares.py
+hindi_scraper/pipelines.py
+hindi_scraper/preprocess.py
+hindi_scraper/settings.py
+hindi_scraper/spiders/__init__.py
+hindi_scraper/spiders/hindi_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/requires.txt
+project.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+Scrapy
+scrapy_monkeylearn==0.2.5
+langdetect

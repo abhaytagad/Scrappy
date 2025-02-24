@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: project
+Version: 1.0
+Requires-Dist: Scrapy
+Requires-Dist: scrapy_monkeylearn==0.2.5
+Requires-Dist: langdetect
+Dynamic: requires-dist
